@@ -1,0 +1,38 @@
+
+body{
+  margin:0;
+  font-family:Monoton;
+  font-size: 40px;
+}
+.container{
+  position: relative;
+  background: grey;
+  height: 300px;
+  width: 300px;
+}
+
+.red{
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  position:relative;
+  left:100px;
+  display:absolute;
+}
+.blue{
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  position:fixed;
+  left:200px;
+  display: absolute;
+
+}
+.yellow{
+  height: 100px;
+  width: 100px;
+  background-color: yellow;
+  position:relative;
+  left:300px;
+  display:inline-block;
+}

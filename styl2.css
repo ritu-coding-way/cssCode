@@ -1,0 +1,39 @@
+body{
+  margin: 0;
+  font-family: 'Great Vibes', cursive;
+  font-size: 40px;
+}
+.top-container{
+  padding:10px;
+}
+h1{
+  display:block;
+  margin-top: 0;
+  width: 25%;
+  margin: 0 auto;
+}
+.pro{
+  text-decoration: underline;
+}
+.clouds{
+  position: relative;
+  left: 50px;
+  top: 100px;
+  right:300px;
+}
+.div{
+  position: relative;
+}
+.mountain{
+position: absolute;
+left:600px;
+width:1000px;
+height: 1300px;
+top: 550px;
+}
+
+.bottomCloud{
+  position: absolute;
+  right:100px;
+  top:100px;
+}
